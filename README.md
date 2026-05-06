@@ -99,20 +99,6 @@ Flutter, Dart, Firebase Authentication, Cloud Firestore, Firebase Storage, Fireb
 
 ---
 
-## 🔒 Private Project Experience
-
-Some of my work is maintained in private repositories and includes:
-
-- NLP-based document intelligence applications
-- RAG-based question-answering systems
-- Full-stack applications using React.js, Node.js, Express.js, and MongoDB
-- Backend systems using Django and PostgreSQL
-- REST API development and integration
-- AWS-based deployment and cloud configuration
-- Modern frontend interfaces using HTML, CSS, JavaScript, and React.js
-
----
-
 ## 🌐 Connect With Me
 
 - GitHub: [Pasha806](https://github.com/Pasha806)
