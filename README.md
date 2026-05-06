@@ -21,54 +21,80 @@ My work includes public and private projects involving Flutter apps, AI/NLP syst
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-### Mobile Development
-- Flutter
-- Dart
-- Android Studio
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Storage
-- Firebase Cloud Messaging
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Mobile Development</h3>
+      <ul>
+        <li>Flutter</li>
+        <li>Dart</li>
+        <li>Android Studio</li>
+        <li>Firebase Authentication</li>
+        <li>Cloud Firestore</li>
+        <li>Firebase Storage</li>
+        <li>Firebase Cloud Messaging</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Frontend Development</h3>
+      <ul>
+        <li>React.js</li>
+        <li>JavaScript</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Vanilla JS</li>
+        <li>Responsive UI Design</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend Development</h3>
+      <ul>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>Django</li>
+        <li>REST APIs</li>
+        <li>Authentication Systems</li>
+        <li>API Integration</li>
+      </ul>
+    </td>
+  </tr>
 
-### Frontend Development
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Vanilla JS
-- Responsive UI Design
-
-### Backend Development
-- Node.js
-- Express.js
-- Django
-- REST APIs
-- Authentication Systems
-- API Integration
-
-### Databases
-- MongoDB
-- PostgreSQL
-- Firebase Firestore
-
-### AI, NLP & RAG
-- Python
-- Natural Language Processing
-- Retrieval-Augmented Generation
-- Embeddings
-- Document Similarity
-- AI Recommendation Systems
-- Machine Learning Basics
-
-### Cloud & Tools
-- AWS
-- Git
-- GitHub
-- Postman
-- VS Code
-- Figma
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Databases</h3>
+      <ul>
+        <li>MongoDB</li>
+        <li>PostgreSQL</li>
+        <li>Firebase Firestore</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>AI, NLP & RAG</h3>
+      <ul>
+        <li>Python</li>
+        <li>Natural Language Processing</li>
+        <li>Retrieval-Augmented Generation</li>
+        <li>Embeddings</li>
+        <li>Document Similarity</li>
+        <li>AI Recommendation Systems</li>
+        <li>Machine Learning Basics</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Cloud & Tools</h3>
+      <ul>
+        <li>AWS</li>
+        <li>Git</li>
+        <li>GitHub</li>
+        <li>Postman</li>
+        <li>VS Code</li>
+        <li>Figma</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
