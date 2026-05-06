@@ -125,13 +125,13 @@ Flutter, Dart, Firebase Authentication, Cloud Firestore, Firebase Storage, Fireb
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 - GitHub: [Pasha806](https://github.com/Pasha806)
 - LinkedIn: [Hamza Imran](https://www.linkedin.com/in/hamzaimran806)
 
 ---
 
-## 💡 Goal
+## Goal
 
 My goal is to become a strong software engineer by building real-world projects, and creating reliable solutions across AI, mobile apps, backend systems, and full-stack platforms.
